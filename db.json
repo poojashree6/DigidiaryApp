@@ -1,0 +1,32 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "date": "2023-06-10",
+      "title": "Team Outing 🏸🍜😊",
+      "body": "Dear Diary,\nToday was an absolutely exciting day as our team embarked on a much-awaited outing. After the team-building session, we had some free time to explore the resort and enjoy its amenities It was a great opportunity to bond with my "
+    },
+    {
+      "date": "2023-06-06",
+      "title": "Visited my school😊",
+      "body": "Dear Diary,\nToday was a nostalgic day as I had the opportunity to revisit my beloved school. Stepping through those familiar gates filled me with a mix of excitement and nostalgia, taking me back to the countless memories I had created within those walls. The walls seemed to whisper stories of laughter, learning, and friendship.",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "date": "2023-06-01",
+      "title": "Graduation day👨‍🎓",
+      "body": " Oh Dear Diary,\nToday was an extraordinary day filled with a mix of emotions as I celebrated my graduation. It marked the culmination of years of hard work, growth, and countless memorable experiences. The memories and friendships forged during my time as a student would forever hold a special place in my heart."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

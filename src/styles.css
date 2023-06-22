@@ -1,0 +1,45 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+nav {
+    /* background-image:linear-gradient(to right,#185a9d,#43cea2,#185a9d,#43cea2); */
+    /* background-color: rgb(224, 174, 248); */
+    background-image: linear-gradient(to right,rgb(149, 37, 223),rgb(211, 43, 161));
+    height: 80px;
+    width: 100%;
+  
+}
+
+label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+.card{
+    background-image: linear-gradient(to right,rgb(149, 37, 223),rgb(211, 43, 161));
+    /* background-color: #b01bb8; */
+    color: white;
+}
+.footer{
+ display: flex;
+ justify-content: space-between;
+ position: sticky;
+}
+
+
+body{
+    background-image: url(src\assets\imgbg3.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow-x: hidden;
+    /* background-color: rgb(224, 174, 248); */
+}
+.text{
+    align-items:end;
+    text-align:justify;
+    color: white;
+}
+
